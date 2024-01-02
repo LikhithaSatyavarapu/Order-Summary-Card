@@ -75,7 +75,7 @@ Here are some valuable resources that aided in the development of the Order Summ
 
 ## Author
 
-- [Likhitha Satyavarapu]
+- Likhitha Satyavarapu
 - Frontend Mentor - [@LikhithaSatyavarapu](https://www.frontendmentor.io/profile/LikhithaSatyavarapu)
 
 ## Acknowledgments
