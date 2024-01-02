@@ -20,12 +20,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 The Order Summary Card challenge on Frontend Mentor is designed to enhance your coding skills by building a realistic project. In this challenge, the goal is to create a responsive order summary card that users can interact with. The card should provide key information about an order, and users should be able to see hover states for interactive elements.
 
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
 ### Screenshot
 
 ![Destop View]("./Screenshot 2024-01-02 131651.png")
