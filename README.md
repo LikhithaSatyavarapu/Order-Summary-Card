@@ -22,8 +22,9 @@ The Order Summary Card challenge on Frontend Mentor is designed to enhance your 
 
 ### Screenshot
 
-![Desktop View] (./Screenshot%202024-01-02%20131651.png)
-![Mobile View] (./Screenshot%202024-01-02%20133330.png)
+![Desktop](./Screenshot%202024-01-02%20131651.png)
+![Mobile View](./Screenshot%202024-01-02%20133330.png)
+
 
 ### Links
 
